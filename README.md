@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Milan-Sharma-449
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning UI/UX Designing
-- 📫 How to reach me milansharma449@gmail.com
+# E-store
 
-<!---
-Milan-Sharma-449/Milan-Sharma-449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  	- First create databse in phpmyadmin with the same name of give SQL file name.
+	- In that database import database.
+	- Import given SQL file to the database.
